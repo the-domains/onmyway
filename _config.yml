@@ -1,0 +1,14 @@
+layout_spectrum: 0.4564839063677937
+typography_spectrum: 0.37277003820054233
+color:
+  brandStrength: 0.9335444471798837
+  lightness: 0.6973967291414738
+  saturation: 0.15697628841735423
+  rhythmicContrast: 0.3098173588514328
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: onmyway
